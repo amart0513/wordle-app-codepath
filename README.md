@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here is a video for Wordle Pt. 1! 
 
-[Project Guide]] <div>
+[Project Guide] <div>
     <a href="https://www.loom.com/share/5be3653a6bbd4166bb2288e3e10f1b10">
       <p>Simulator - iPhone 14 Pro - 19 September 2023 - Watch Video</p>
     </a>
